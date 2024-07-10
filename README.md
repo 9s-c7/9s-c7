@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sonal</h1>
-<h3 align="center">I am passionate about learning, focusing deeply on Machine Learning and Full Stack Development. I actively pursue projects in app and web development, alongside engaging in Deep Learning endeavours. Known for my collaborative spirit and adeptness in independent problem-solving, I consistently strive for excellence and high-quality outcomes.</h3>
+<h1 align="left">Hi 👋, I'm Sonal</h1>
+<h3 align="left">I am passionate about learning, focusing deeply on Machine Learning and Full Stack Development. I actively pursue projects in app and web development, alongside engaging in Deep Learning endeavours. Known for my collaborative spirit and adeptness in independent problem-solving, I consistently strive for excellence and high-quality outcomes.</h3>
 
 - 🔭 I’m currently working on **Brain Tumor Classification and Segmentation using Hybrid Deep Learning Techniques.**
 
