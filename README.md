@@ -66,7 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
 </a>
 <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-  <img src="mrdoob/three.js/blob/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg 1.1k" alt="Three.js" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="Three.js" width="40" height="40"/>
 </a>
 <a href="https://socket.io/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40" height="40"/>
